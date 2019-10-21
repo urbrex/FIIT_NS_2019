@@ -10,10 +10,10 @@ Cieľom nášho projektu je predikcia počtu strelených gólov v zápase NHL. P
 Pri štúdiu projektov využívajúcich neurónové siete na predpovedanie športových
 výsledkov sme narazili na niekoľko podobných projektov. V tejto práci popíšeme nasledujúce dva:
 
--   “Use of Performance Metrics to Forecast Success in the National Hockey League” z Ottavskej univerzity
-    
+-   “Use of Performance Metrics to Forecast Success in the National Hockey League” z Ottavskej univerzity -
+    https://www.scribd.com/embeds/158486700/content?referrer=https%3A%2F%2Fwww.redditmedia.com%2Fmediaembed%2F1jzrs5
 -   “Predicting football results using neural networks” od Andreho Ostraka
-    
+    https://mc.ai/predicting-football-results-using-neural-networks/
 
 ## Prvá práca 
 Prvá práca sa zaoberá tou istou témou ako náš projekt, na ktorom tiež budeme predpovedať hokejové zápasy z NHL. V práci sa pracovalo z rôznymi vstupnými dátami, ktoré sa v zásade delili na základný model a rozšírený model. V základnom sa pracovalo s nasledovnými štatistikami prevzatými z portálov www.TSN.ca a www.NHL.com
